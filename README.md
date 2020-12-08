@@ -24,4 +24,18 @@ There are three potential causes for such a phenomenon to occur :
 
 • Our simplified model does not account for how the upgrade affects the efficiency of the upgrade.
 
+**Conclusions**:
+This upgrade also results in :
+• higher flux - more photons per area per second
+• smaller beam - less overall radiation damage
+• shorter pulses - improved time resolution
+
+Diamond II opens up the following research areas:
+• Battery research
+• G protein-coupled receptors
+• Target-drug kinetics
+• Study of Coronaviruses in a more efficient way
+
+From our findings we believe that, in an age of exponential technological development, it is evident that institutions, such as the Diamond Light Source, be upgraded to ensure that the UK's scientific community remains competitive by contributing to cutting-edge global research.
+
 
