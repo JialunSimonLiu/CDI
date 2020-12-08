@@ -16,5 +16,11 @@ The two phase retrieval algorithms presented here are Error Reduction and Gerchb
 
 **3.A Comparison was made between both Diamond 1, Diamond 2 and an ideal coherent beam. (see files: Results of Diamond I.ipynb, Results of Diamond II.ipynb, Phase_retrieval_algorithm(coherent_lights).ipynb)**
 
+**Results**:
+The results show an increase in the resolution with each iteration. From our computational model, Diamond II does not improve the quality of the diffraction pattern. It was also found that the ideal case had no effect in the resolution of the diffraction pattern.
+There are three potential causes for such a phenomenon to occur :
+• The chi-square limit
+• Computational precision of the results reaching a value that is indistinguishable
+• Our simplified model does not account for how the upgrade affects the efficiency of the upgrade.
 
 
