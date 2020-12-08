@@ -17,13 +17,7 @@ CDI is a lensless tomographic technique that measures the diffraction pattern of
 **Results**:
 The results show an increase in the resolution with each iteration. From our computational model, Diamond II does not improve the quality of the diffraction pattern. It was also found that the ideal case had no effect in the resolution of the diffraction pattern.
 
-There are three potential causes for such a phenomenon to occur :
-
-• The chi-square limit
-
-• Computational precision of the results reaching a value that is indistinguishable
-
-• Our simplified model does not account for how the upgrade affects the efficiency of the upgrade.
+There are three potential causes for such a phenomenon to occur: • The chi-square limit • Computational precision of the results reaching a value that is indistinguishable • Our simplified model does not account for how the upgrade affects the efficiency of the upgrade.
 
 **Conclusions**:
 This upgrade also results in :
