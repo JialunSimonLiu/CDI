@@ -10,9 +10,11 @@ retrieve an image of the sample.
 
 The two phase retrieval algorithms presented here are Error Reduction and Gerchberg–Saxton algorithms. I have focused mainly on evaluating the equipment performance of the I-13-1 branchline’s coherent diffraction imaging experiment from Diamond Light Source using the Error Reduction algorithm. 
 
-1.The model used an iterative feedback algorithm known as the oversampling algorithm to reconstruct the image off a generated intensity distribution.
-2.The chi-square between the generated images and the original sample image was measured to determine the similarities per iteration.
-3.A Comparison was made between both Diamond 1, Diamond 2 and an ideal coherent beam. (see files: Results of Diamond I.ipynb, Results of Diamond II.ipynb, Phase_retrieval_algorithm(coherent_lights).ipynb)
+**1.The model used an iterative feedback algorithm known as the oversampling algorithm to reconstruct the image off a generated intensity distribution.**
+
+**2.The chi-square between the generated images and the original sample image was measured to determine the similarities per iteration.**
+
+**3.A Comparison was made between both Diamond 1, Diamond 2 and an ideal coherent beam. (see files: Results of Diamond I.ipynb, Results of Diamond II.ipynb, Phase_retrieval_algorithm(coherent_lights).ipynb)**
 
 
 
