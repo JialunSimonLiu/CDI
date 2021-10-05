@@ -1,4 +1,4 @@
-# Coherent Diffraction Imaging
+# CDI
 **The basic idea of the algorithm**:The two phase retrieval algorithms presented here are Error Reduction (ER) and Gerchberg–Saxton (GS) algorithms. Our investigation primarily focused on evaluating the performance of the Coherent diffraction imaging (CDI) experiment in Diamond Light Source's I-13 branchline using the ER algorithm.
 
 ![Alt Text](https://github.com/JialunSimonLiu/Coherent-Diffraction-Imaging/blob/main/pictures/Error%20reduction%20algorithm.png)
